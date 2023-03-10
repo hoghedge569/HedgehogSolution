@@ -1,3 +1,9 @@
+# HedgehogSolution
+out/
+output.txt
+test-output.txt
+.DS_Store
+
 # Compiled class file
 *.class
 
